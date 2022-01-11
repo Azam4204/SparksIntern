@@ -1,2 +1,2 @@
 # SparksIntern
-Work under internship in ' The Sparks Foundation '
+Tasks in ' The Sparks Foundation '
